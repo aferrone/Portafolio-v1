@@ -1,0 +1,25 @@
+
+
+
+
+
+
+body{
+    background-color: rgb(3, 3, 43);
+    
+}
+
+.header_menu{
+    color: aliceblue;
+}
+
+.imagen_principal{
+    width: 10em;
+    border-radius: 5ems;
+}
+.presentacion_contenido_titulo{
+    color: aliceblue;
+}
+.presentacion_contenido_texto{
+    color: aliceblue;
+}
